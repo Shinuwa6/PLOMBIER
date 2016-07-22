@@ -1,0 +1,80 @@
+.sanitaire {
+  max-width: 75%;
+
+}
+
+
+section {
+    margin-top: 5%;
+}
+.hidden-md-down {
+    color: white;
+    font-weight: bold;
+    margin-top: 3%;
+}
+.bg {
+    margin-right: -223px !important;
+}
+.logo-airbnb {
+    width: 35%;
+}
+.zed {
+    margin-left: -50px !important;
+    color: #779ADD;
+}
+
+.navbar-brand {
+  color: #779ADD;
+
+}
+.lucian {
+    border: white 3.5px solid;
+}
+.text-strong {
+    font-weight: bold;
+    color: #484848;
+}
+.bg-header {
+    background-image: url('../img/zzit.jpeg');
+    background-size: cover;
+    height: 500px !important;
+}
+.bg-footer {
+    background-image: url("../img/foot.jpg");
+    background-size: cover;
+    height: 350px !important;
+    padding-bottom: 10%;
+}
+a {
+    color: #FFF !important;
+}
+.white {
+    color: white;
+    font-weight: bold !important;
+}
+.hero__content-footer {
+    margin-top: 8%;
+}
+.annie {
+    margin-top: 7%;
+}
+.rapace {
+    margin-bottom: 6%;
+}
+.lili {
+    margin-top: 10%;
+    padding-top: 1%;
+}
+.football {
+    margin-left: -7%;
+    list-style: none;
+    margin-right: 10%;
+}
+.listizi {
+    margin-top: 4%;
+}
+
+.wut {
+
+  max-width: 100%;
+}
