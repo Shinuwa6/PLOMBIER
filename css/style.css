@@ -1,3 +1,5 @@
+
+
 .sanitaire {
   max-width: 75%;
 
@@ -40,7 +42,7 @@ section {
     height: 500px !important;
 }
 .bg-footer {
-    background-image: url("../img/foot.jpg");
+    background-image: url("../img/zz.jpg");
     background-size: cover;
     height: 350px !important;
     padding-bottom: 10%;
